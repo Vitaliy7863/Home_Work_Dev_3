@@ -2,7 +2,7 @@ package org.example;
 
 public class SumCalculator {
 
-    public int sum(int n) {
+     public int sum(int n) {
         int arithmeticProgression = 0;
 
         if (n <= 0) {

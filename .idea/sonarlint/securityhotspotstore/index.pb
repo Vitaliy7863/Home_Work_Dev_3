@@ -3,10 +3,6 @@ S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-\
-,src/test/java/TestArithmeticProgression.java,3\5\35880d730425b190d2f0071aab56a2089e1961a5
-d
-4src/main/java/org/example/ArithmeticProgression.java,f\7\f7ae1a0c0394aa3bedbd75a1000476102713f4d0
 n
 >src/test/java/org/examle/verify/TestArithmeticProgression.java,5\1\51426a232ac60dfa1546699a404fc36ce2909859
 \
@@ -22,12 +18,8 @@ n
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 w
 G.idea/sonarlint/issuestore/a/0/a0f5c22a53593d6d5c24daa308252886a7caaef3,2\4\24ef2c007675a6a1ccda7ffd155a725f22c8fea1
-Å
-Q.idea/sonarlint/securityhotspotstore/f/7/f7ae1a0c0394aa3bedbd75a1000476102713f4d0,c\0\c0c8950cff3836615644d7c23b09bcbae1accf83
 ;
 gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
-Å
-Q.idea/sonarlint/securityhotspotstore/3/5/35880d730425b190d2f0071aab56a2089e1961a5,5\e\5e67718a2467f199cb2f52ef60de0ce3fedbac8c
 Å
 Q.idea/sonarlint/securityhotspotstore/7/d/7d451c47e6ccd4e5f2537518e8f50801b6cc946f,1\f\1f4e490139680f23ae62f6007edb87f85fa8aa50
 w
@@ -38,8 +30,6 @@ Q.idea/sonarlint/securityhotspotstore/0/5/05efc8b1657769a27696d478ded1e95f387372
 Q.idea/sonarlint/securityhotspotstore/a/0/a0f5c22a53593d6d5c24daa308252886a7caaef3,9\0\90105fa748ad7467e982f3a36403c9b946164087
 w
 G.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233,3\c\3c8c56407c35e5f5ebbd6c7250a79af8128a13a6
-w
-G.idea/sonarlint/issuestore/3/5/35880d730425b190d2f0071aab56a2089e1961a5,d\b\db27cbd6b73c12977f3f69ace66c01a40fe49d74
 Å
 Q.idea/sonarlint/securityhotspotstore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9,1\e\1e45613b6060de813dc92caeb118e08a2124bc35
 Å
@@ -58,3 +48,5 @@ X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 w
 G.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35,b\f\bfb9453d49af9bc40f5f7a5f034be3c7ef8fa6bf
+K
+.github/workflows/ci-cd.yml,e\5\e5ad8aa736aca9e40cb68718f70dc7fa78c1597a
