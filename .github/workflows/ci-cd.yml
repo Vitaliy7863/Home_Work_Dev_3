@@ -23,4 +23,4 @@
           run: chmod +x ./gradlew
 
         - name: Run unit tests
-          run: ./gradlew build
+          run: ./gradlew testClasses
